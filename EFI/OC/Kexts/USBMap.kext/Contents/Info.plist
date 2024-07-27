@@ -76,10 +76,10 @@
 					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
-						BwAAAA==
+						BAAAAA==
 						</data>
 					</dict>
 					<key>HS05</key>
@@ -88,7 +88,7 @@
 						<integer>0</integer>
 						<key>port</key>
 						<data>
-						CAAAAA==
+						BgAAAA==
 						</data>
 					</dict>
 					<key>HS06</key>
@@ -137,6 +137,15 @@
 						</data>
 					</dict>
 					<key>SS03</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
+						<data>
+						EwAAAA==
+						</data>
+					</dict>
+					<key>SS04</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
