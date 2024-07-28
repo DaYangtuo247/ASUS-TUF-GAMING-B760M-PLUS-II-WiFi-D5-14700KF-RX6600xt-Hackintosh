@@ -26,7 +26,7 @@
 | Audio           | ✅      | AppleALC kext working with layout-id 3                       |
 | Trackpad        | ✅      | VoodooI2C                                                    |
 | Ethernet        | ✅      | RealtekRTL8111 Kext                                          |
-| Intel WIFI      | ✅      | AirportItlwm Kext                                            |
+| brcm WIFI      | ✅      | need AirportBrcmFixup.Kext                                            |
 | Bluetooth       | ✅      | Internal Intel combo card with IntelBluetoothFirmware.kext + BlueToolFixup Kext |
 | Battery         | ✅      | SMCBatteryManager.kext + SMCDellSensors.kext + ECEnabler.kext |
 | AppleTV+ DRM    | ✅      | Work with CFG_LINK_FIXED_MAP=1                               |
