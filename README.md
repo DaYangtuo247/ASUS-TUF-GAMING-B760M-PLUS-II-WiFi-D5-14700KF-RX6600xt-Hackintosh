@@ -6,12 +6,12 @@
 | -------------------- | -------------------------------- |
 | Model                | TUF gaming B760M plus ii WIFI D5 |
 | CPU                  | i7-14700KF                       |
-| DGPU                 | RX 6600M                         |
+| DGPU                 | RX 6950xt                        |
 | RAM                  | 2x16GB  DDR5 6400MHz             |
 | NVMe                 | WD_BLACK SN850X 1TB              |
 | WIFI and Bluetooth   | T919（BMC94360CD）               |
 | Ethernet             | RTL8852                          |
-| Opencore Version     | 1.0.0                            |
+| Opencore Version     | 1.0.3                            |
 | SMBIOS used          | MacPro7,1                        |
 | Target MacOS Version | MacOS 13.6.7                     |
 
